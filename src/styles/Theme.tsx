@@ -1,6 +1,4 @@
-
-
-type ThemePropsType = {
+export const Theme = {
     colors:{
         bcgGroundSection: '#343D68',
         colorTextButton: '#FFFFFFDE',
@@ -11,11 +9,3 @@ type ThemePropsType = {
     }
 }
 
-import React from 'react';
-
-export const Theme = () => {
-    return (
-        <div>
-            </div>
-    );
-};
