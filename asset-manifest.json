@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyProfile/static/css/main.e6c13ad2.css",
-    "main.js": "/MyProfile/static/js/main.abc083bb.js",
+    "main.js": "/MyProfile/static/js/main.85735068.js",
     "static/js/787.25eaef86.chunk.js": "/MyProfile/static/js/787.25eaef86.chunk.js",
     "static/media/WorkTwo.png": "/MyProfile/static/media/WorkTwo.9eb72715364e8922d9ba.png",
     "static/media/circles.svg": "/MyProfile/static/media/circles.d84a56306ff32f5d341b48285bac554d.svg",
@@ -11,21 +11,20 @@
     "static/media/manSeeOnChats.png": "/MyProfile/static/media/manSeeOnChats.33e6b6ec17a00d8f1cae.png",
     "static/media/gearsRed.svg": "/MyProfile/static/media/gearsRed.f12beb0dc22de47fa44c28295e091ded.svg",
     "static/media/SkillsBcgPhoto.webp": "/MyProfile/static/media/SkillsBcgPhoto.167870195621e5c08953.webp",
+    "static/media/bcgFone.svg": "/MyProfile/static/media/bcgFone.45b08a75e4e557e3e4a1703e4a7d66b7.svg",
     "static/media/circlesOne.svg": "/MyProfile/static/media/circlesOne.ef02d3963aef248214cf30759848f44a.svg",
     "static/media/zigzags.svg": "/MyProfile/static/media/zigzags.482a94744336511b71bf2ae5468bfda7.svg",
     "index.html": "/MyProfile/index.html",
     "static/media/PolygonBcg.svg": "/MyProfile/static/media/PolygonBcg.d3ab32bb6280020ce25837d6f482de87.svg",
     "static/media/cube.svg": "/MyProfile/static/media/cube.06b40cc590ce9475de6dad3aaa224eb5.svg",
-    "static/media/bcgFone.svg": "/MyProfile/static/media/bcgFone.4d1d037312faa0c130767d760855967f.svg",
-    "static/media/bcgFonEnd.svg": "/MyProfile/static/media/bcgFonEnd.5de470cb04777fbd7247d510a89d5659.svg",
     "static/media/plus.svg": "/MyProfile/static/media/plus.80cc947420211114f1256165ad6a56ae.svg",
     "static/media/ellipse.svg": "/MyProfile/static/media/ellipse.86e707ff79e5ec857286f72c86781206.svg",
     "main.e6c13ad2.css.map": "/MyProfile/static/css/main.e6c13ad2.css.map",
-    "main.abc083bb.js.map": "/MyProfile/static/js/main.abc083bb.js.map",
+    "main.85735068.js.map": "/MyProfile/static/js/main.85735068.js.map",
     "787.25eaef86.chunk.js.map": "/MyProfile/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.abc083bb.js"
+    "static/js/main.85735068.js"
   ]
 }
